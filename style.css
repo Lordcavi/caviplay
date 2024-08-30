@@ -50,7 +50,7 @@ body {
 .now-playing {
   font-size: 1rem;
   font-weight: bold;
-  color: rgba(0, 0, 0, 0.76);
+  color: white;
 }
 
 .track-name {
